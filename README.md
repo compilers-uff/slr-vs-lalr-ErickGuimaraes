@@ -1,3 +1,5 @@
+## Erick Guimarães de Oliveira - 816031129
+
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
