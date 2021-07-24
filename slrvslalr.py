@@ -8,7 +8,7 @@ if os.path.exists("parser.out"):
 
 if os.path.exists("parsetab.py"):
   os.remove("parsetab.py")
-  print("parsetable já existe, removendo arquivo")
+  print("Parsetable já existe, removendo arquivo")
 
 inpt = input("Qual valor deseja analisar: ")
 
